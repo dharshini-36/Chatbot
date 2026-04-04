@@ -110,4 +110,7 @@ Built using Streamlit and Groq for fast and efficient AI responses.
 
 ## 📷 Demo
 
-Add your app screenshot here after deployment 🚀
+<img width="830" height="547" alt="image" src="https://github.com/user-attachments/assets/60949fcf-d4f5-4eb7-bd65-b284b2c2ea78" />
+<img width="581" height="412" alt="image" src="https://github.com/user-attachments/assets/15dec6ff-23a4-4f52-9acd-34d5b1b06b69" />
+
+
