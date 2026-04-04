@@ -7,7 +7,7 @@ load_dotenv()
 
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
-st.set_page_config(page_title="Dharshini's AGI", page_icon="🧠")
+st.set_page_config(page_title="ChatBot", page_icon="🧠")
 
 st.title("Simple Chatbot")
 
